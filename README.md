@@ -83,6 +83,8 @@ Visit [https://jlcpcb.com](https://jlcpcb.com/RNA)
 Currently, on JLCPCB, we have launched several promotions for multilayer PCB prototyping. We no longer have extra charges for via-in-pad on 6-20 layer PCBs.
 https://jlcpcb.com/blog/42-special-offer-for-6-8-layer-high-precision-pcbs
 
+How does JLC Via-in-pad optimize routing efficiency? https://jlcpcb.com/6-layer-pcb
+
 JLCPCB's newly launched Multi-color Silkscreen service, allows you to incorporate any image design you like onto your PCB.
 https://jlcpcb.com/blog/653-multi-color-silkscreen-pcb
 
