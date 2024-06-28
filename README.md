@@ -4,7 +4,7 @@ In this IoT project, I have shown how to make an IoT-based Home Automation with 
 You can manually control the home appliances with switches and an IR remote if the internet is unavailable. During the article, I have shown all the steps to make this smart home system.
 
 ## Tutorial Video on this ESP32 IoT Project
-Tutorial video link: [https://youtu.be/gpoO7kYXzm4](https://youtu.be/UlT72MMbPu8)
+Tutorial video link: https://youtu.be/UlT72MMbPu8
 
 This IoT-based Home Automation system has the following features:
 
